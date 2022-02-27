@@ -1,6 +1,6 @@
 # display days
-read -p "enter a 1 to 7 number : " number #enter integer
 
+read -p "enter a 1 to 7 number : " number #enter integer
 
 if [ $number -eq 1 ] 
 then
