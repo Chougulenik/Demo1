@@ -1,6 +1,6 @@
 
 #edit by nikita
-read -p "Enter a number :" number
+read -p "Enter a number :" number #enter any number
 
 if [ $number -eq 1 ]
 then
