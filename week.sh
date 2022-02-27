@@ -1,3 +1,4 @@
+# display days
 read -p "enter a 1 to 7 number : " number
 
 if [ $number -eq 1 ]
