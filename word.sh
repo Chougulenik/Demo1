@@ -1,4 +1,4 @@
-read -p "Enter a number :" number
+read -p "Enter a number :" number #enter any integer number
 
 if [ $number -eq 1 ]
 then
