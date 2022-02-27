@@ -1,7 +1,7 @@
 # display days
 read -p "enter a 1 to 7 number : " number
 
-if [ $number -eq 1 ]
+if [ $number -eq 1 ] #user entered
 then
 	echo "Sunday"
 elif [ $number -eq 2 ]
