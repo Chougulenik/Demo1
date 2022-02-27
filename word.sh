@@ -1,4 +1,7 @@
-read -p "Enter a number :" number #enter any integer number
+
+
+#edit by nikita
+read -p "Enter a number :" number #enter any number
 
 if [ $number -eq 1 ]
 then
@@ -12,3 +15,4 @@ then
 else
 	echo "not valid number"
 fi
+echo "nikita"
