@@ -1,3 +1,4 @@
+#edit by user
 read -p "Enter a number :" number
 
 if [ $number -eq 1 ]
