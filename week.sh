@@ -1,5 +1,5 @@
 # display days
-read -p "enter a 1 to 7 number : " number
+read -p "enter a 1 to 7 number : " number #enter any number
 
 
 if [ $number -eq 1 ] #user entered
