@@ -1,4 +1,5 @@
 
+
 #edit by nikita
 read -p "Enter a number :" number #enter any number
 
